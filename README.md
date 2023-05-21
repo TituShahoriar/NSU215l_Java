@@ -100,7 +100,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or suggestions, feel free to reach out to me:
 
 - Email: fahimshahoriar66@gmail.com
-- Facebook: [fahim.sh
-
-ahoriar.t2](https://www.facebook.com/fahim.shahoriar.t2)
+- Facebook: [fahim.shahoriar.t2](https://www.facebook.com/fahim.shahoriar.t2)
 - LinkedIn: [Fahim Shahoriar](https://www.linkedin.com/in/fahim-shahoriar/)
