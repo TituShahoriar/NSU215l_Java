@@ -1,3 +1,4 @@
+
 # CSE215Lab - Java Programming
 
 [![Java](https://img.shields.io/badge/java-%3E%3D8-orange.svg)](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
@@ -61,7 +62,45 @@ This repository is organized into daily folders, each containing the tasks and l
 
 1. Clone the repository:
 
-   ```bash
+   
    git clone https://github.com/TituShahoriar/CSE215Lab.git
+   
 
+2. Navigate to the desired day's folder:
 
+   
+   cd CSE215Lab/DayX
+   
+
+3. Compile and run the Java program:
+
+   
+   javac Main.java
+   java Main
+   
+
+4. Explore the code and experiment with the examples.
+
+## :clipboard: Contributing
+
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make the necessary modifications.
+4. Commit and push your changes.
+5. Submit a pull request.
+
+## :page_facing_up: License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## :envelope: Contact
+
+For any inquiries or suggestions, feel free to reach out to me:
+
+- Email: fahimshahoriar66@gmail.com
+- Facebook: [fahim.sh
+
+ahoriar.t2](https://www.facebook.com/fahim.shahoriar.t2)
+- LinkedIn: [Fahim Shahoriar](https://www.linkedin.com/in/fahim-shahoriar/)
